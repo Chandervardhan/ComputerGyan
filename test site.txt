@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Dropshipping Store</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        .container { max-width: 800px; margin: auto; }
+        .product { border: 1px solid #ddd; padding: 15px; margin: 10px; display: inline-block; }
+        .btn { background: blue; color: white; padding: 10px; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to My Dropshipping Store</h1>
+        <p>Find the best products at the best prices!</p>
+        
+        <div class="product">
+            <h2>Product 1</h2>
+            <p>Best quality product for you.</p>
+            <a href="#" class="btn">Buy Now</a>
+        </div>
+        
+        <div class="product">
+            <h2>Product 2</h2>
+            <p>High-demand product at a great price.</p>
+            <a href="#" class="btn">Buy Now</a>
+        </div>
+    </div>
+</body>
+</html>
